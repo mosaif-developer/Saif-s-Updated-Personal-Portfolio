@@ -9,7 +9,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/mosaif-developer",
     resume:
-      "https://drive.google.com/file/d/1EkjFVfM6XvX_wvEvM6TTe9ScpTqvrXy2/view?usp=sharing",
+      "https://drive.google.com/file/d/1rwX0bnF2pMYyFzQT2CHBiF9vS5tcNvbj/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/mohd-saif-a15669251/",
     insta: "https://www.instagram.com/saifu724/",
     facebook: "https://www.facebook.com/profile.php?id=100005042685521",
@@ -148,7 +148,7 @@ export const Bio = {
       ],
       category: "web app",
       github: "https://github.com/mosaif-developer/Blog-Website",
-      webapp: "blog-website-three-mu.vercel.app",
+      webapp: "https://blogg-webapp.netlify.app",
     },
     {
       id: 0,
@@ -277,7 +277,7 @@ export const Bio = {
         "https://firebasestorage.googleapis.com/v0/b/portfolio-images-7062a.appspot.com/o/Screenshot%20(13).png?alt=media&token=f17105b3-57eb-49c5-a22e-89d78c2f6da1",
       tags: ["ReactJs", "React-Router-Dom", "Styled Components", "Material UI", "React-icons", "Emailjs"],
       category: "android app",
-      github: "",
+      github: "https://github.com/mosaif-developer/Updated--Personal_Portfolio",
       webapp: "",
     },
   ];
